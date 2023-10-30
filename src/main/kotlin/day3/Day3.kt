@@ -1,4 +1,4 @@
-// https://www.youtube.com/watch?v=F9UC9DY-vIU
+package day3// https://www.youtube.com/watch?v=F9UC9DY-vIU
 // left off at 21:31
 
 fun main() {

@@ -1,4 +1,4 @@
-// https://www.youtube.com/watch?v=F9UC9DY-vIU
+package day2// https://www.youtube.com/watch?v=F9UC9DY-vIU
 // left off at 15:00
 
 val name = "Sid"

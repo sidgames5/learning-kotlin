@@ -1,4 +1,4 @@
-// https://www.youtube.com/watch?v=F9UC9DY-vIU
+package day1// https://www.youtube.com/watch?v=F9UC9DY-vIU
 // left off at 11:05
 
 var topLevelVariable:String = "this is a top level variable"
